@@ -10,4 +10,4 @@ This project examine the dataset with SQL and help the store understand its busi
 * PgAdmin4
 
 Schema- Music Store Database  
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+![MusicDatabaseSchema](https://github.com/Pranav-S-Bhoge/Digital-Music-Store-Data-Analysis/blob/main/MusicDatabaseSchema.png)
